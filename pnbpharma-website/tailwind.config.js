@@ -6,7 +6,11 @@ module.exports = {
     // Add more paths if needed
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        playfair: ['Playfair Display', 'serif'],
+      },
+    },
   },
   plugins: [],
 };
