@@ -23,7 +23,7 @@ export default function Navbar() {
           <div className="font-playfair text-3xl pt-5 pl-5 pb-0 text-white">
             P&B Pharmaceuticals Private Limited
           </div>
-          <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+          <div className="font-roboto mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
             <div className="relative flex h-16 items-center justify-between">
               <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
                 {/* Mobile menu button*/}
